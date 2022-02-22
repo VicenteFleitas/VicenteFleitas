@@ -3,5 +3,5 @@
 ### Stack
 |   Front   |   Back   |  Full   |
 | --------- | -------- | ------- |
-|   NodeJs  |  NodeJs  |  NextJs |
+|   ReactJs |  NodeJs  |  NextJs |
 | Tailwind  | MongoDB  | Laravel |
