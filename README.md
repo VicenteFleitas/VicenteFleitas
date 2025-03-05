@@ -4,4 +4,5 @@
 |  Front    | Back     | Full    | Others   |
 | --------- | -------- | ------- | -------- |
 |  ReactJs  | NodeJs   | NextJs  | SocketIO |
-|  Tailwind | MongoDB  | Laravel | DenoJs   |
+|  MUI      | MongoDB  |         | DenoJs   |
+|  Python   | Django   |         |          |
